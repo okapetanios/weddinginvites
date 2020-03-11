@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 
 juju.txt
+howto.txt
+tutorial.txt
+client_secret.json
